@@ -39,3 +39,11 @@ html {
 .offline {
   color: red;
 }
+
+.buy-coffee {
+  position: fixed;
+  bottom: 10px;
+  z-index: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}

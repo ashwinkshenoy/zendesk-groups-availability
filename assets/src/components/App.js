@@ -67,6 +67,13 @@ const template = `
     </div>
 
   </div>
+
+  <!--Buy Coffee-->
+  <div class="u-mv-xxl u-ta-center">
+    <a href="https://www.buymeacoffee.com/ashwinshenoy?utm_source=zd_groups_availability" target="_blank" class="buy-coffee">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 140px">
+    </a>
+  </div>
 </div>`;
 
 import ZDClient from '../services/ZDClient.js';
